@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\GitDemoApp\bin\Debug\GitDemoApp.exe.config
+C:\Users\admin\source\repos\GitDemoApp\bin\Debug\GitDemoApp.exe
+C:\Users\admin\source\repos\GitDemoApp\bin\Debug\GitDemoApp.pdb
+C:\Users\admin\source\repos\GitDemoApp\obj\Debug\GitDemoApp.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\GitDemoApp\obj\Debug\GitDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\GitDemoApp\obj\Debug\GitDemoApp.exe
+C:\Users\admin\source\repos\GitDemoApp\obj\Debug\GitDemoApp.pdb
